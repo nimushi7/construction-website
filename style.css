@@ -468,6 +468,7 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 #top-bar .top-bar-content .content:before { content: ""; position: absolute; font-family: "FontAwesome"; top: 0; left: 0; }
 #top-bar .top-bar-content .content.address:before { content: "\f015"; }
 #top-bar .top-bar-content .content.phone:before { content: "\f098"; }
+#top-bar .top-bar-content .content.mail:before { content: "\f199"; }
 #top-bar .top-bar-content .content.time:before { content: "\f017"; }
 #top-bar .top-bar-content .content:after { content: ""; position: absolute; top: 50%; right: 0; width: 2px; height: 10px; background-color: #444; transform: translateY(-50%);  }
 #top-bar .top-bar-content .content:last-child:after { width: 0px; height: 0px; background-color: transparent; }
